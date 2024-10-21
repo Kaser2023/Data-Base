@@ -1,0 +1,41 @@
+id,title,author,genre,is_available
+1,The Great Gatsby,F. Scott Fitzgerald,Fiction,1
+2,To Kill a Mockingbird,Harper Lee,Fiction,1
+3,1984,George Orwell,Science Fiction,1
+4,The Catcher in the Rye,J.D. Salinger,Fiction,1
+5,Pride and Prejudice,Jane Austen,Romance,1
+6,The Hobbit,J.R.R. Tolkien,Fantasy,1
+7,The Da Vinci Code,Dan Brown,Mystery,1
+8,The Hunger Games,Suzanne Collins,Science Fiction,1
+9,The Alchemist,Paulo Coelho,Fiction,1
+10,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1
+11,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1
+12,The Chronicles of Narnia,C.S. Lewis,Fantasy,1
+13,Brave New World,Aldous Huxley,Science Fiction,1
+14,The Shining,Stephen King,Horror,1
+15,The Road,Cormac McCarthy,Dystopian,1
+16,The Outsiders,S.E. Hinton,Drama,1
+17,The Grapes of Wrath,John Steinbeck,Classics,1
+18,One Hundred Years of Solitude,Gabriel Garcia Marquez,Magical Realism,1
+19,The Kite Runner,Khaled Hosseini,Contemporary,1
+20,The Silent Patient,Alex Michaelides,Thriller,1
+21,Fahrenheit 451,Ray Bradbury,Science Fiction,1
+22,Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,1
+23,The Color Purple,Alice Walker,Contemporary,1
+24,The Handmaid's Tale,Margaret Atwood,Dystopian,1
+25,The Road Not Taken and Other Poems,Robert Frost,Poetry,1
+26,The Picture of Dorian Gray,Oscar Wilde,Classics,1
+27,The Book Thief,Markus Zusak,Historical Fiction,1
+28,Animal Farm,George Orwell,Political Allegory,1
+29,The Art of War,Sun Tzu,Philosophy,1
+30,The Fault in Our Stars,John Green,Romance,1
+31,The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,1
+32,The Godfather,Mario Puzo,Crime,1
+33,The Martian,Andy Weir,Science Fiction,1
+34,The Three Musketeers,Alexandre Dumas,Adventure,1
+35,The Great Expectations,Charles Dickens,Classics,1
+36,The Sun Also Rises,Ernest Hemingway,Modernist Literature,1
+37,The Old Man and the Sea,Ernest Hemingway,Classics,1
+38,The Prince and the Pauper,Mark Twain,Children's Literature,1
+39,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,1
+40,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,1
